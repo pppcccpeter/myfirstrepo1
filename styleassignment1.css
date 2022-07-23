@@ -1,0 +1,21 @@
+body{
+    background-color: #efefef;
+    text-emphasis-color: #393939
+}
+
+*{
+    margin:0;
+    font-family: raleway;
+    
+}
+
+h3{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.button{
+    border: 0;
+    
+
+}
